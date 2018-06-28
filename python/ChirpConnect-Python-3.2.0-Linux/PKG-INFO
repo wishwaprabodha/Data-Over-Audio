@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: chirp
+Version: 3.2.0
+Summary: Chirp Connect Python SDK
+Home-page: http://developers.chirp.io
+Author: Asio Ltd.
+Author-email: developers@chirp.io
+License: License :: Other/Proprietary License
+Description-Content-Type: UNKNOWN
+Description: The Chirp Connect Python SDK enables the user to create, send and query chirps, using the Chirp audio protocol.
+Keywords: sound,networking,chirp
+Platform: UNKNOWN
+Classifier: Topic :: Multimedia :: Sound/Audio
+Classifier: Topic :: Communications
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers

@@ -1,0 +1,6 @@
+include LICENSE.md
+include README.md
+include example.py
+include chirp/include/*
+include chirp/_connect.h
+include chirp/libraries/libchirp-connect*
