@@ -21,7 +21,7 @@ sudo yum install python3-dev python3-setuptools portaudio19-dev libffi-dev libsn
 2. install SDK (In the SDK file)
 
 ```
-python example.py install
+python setup.py install
 ```
 
 * [Click Here for additional configuration details](https://developers.chirp.io/connect/getting-started/python/)
