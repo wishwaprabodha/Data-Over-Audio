@@ -31,7 +31,7 @@ python setup.py install
 in send.py & receive.py file I have entered my trial edition credentials and those will expire in month. 
 To get your credentails log into [Chirp](https://www.chirp.io) and register.
 
-## Andriod Module
+## Android Module
 
 ### Steps
 
